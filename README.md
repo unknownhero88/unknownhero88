@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Rishi Sahu</h1>
+<h3 align="center">Full Stack Developer | Building Scalable Web Applications</h3>
+
+
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on Java projects  
 👯 I’m looking to collaborate on open-source projects  
@@ -27,5 +34,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=unknownhero88&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=unknownhero88&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unknownhero88&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=unknownhero88&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
