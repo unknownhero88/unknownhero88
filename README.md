@@ -28,25 +28,4 @@
 
 ---
 
-## 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unknownhero88&repo=CampusConnect&theme=jolly)](https://github.com/unknownhero88/CampusConnect)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unknownhero88&repo=lost-and-found&theme=jolly)](https://github.com/unknownhero88/lost-and-found)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unknownhero88&repo=java-auth-system&theme=jolly)](https://github.com/unknownhero88/java-auth-system)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=unknownhero88&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=unknownhero88&theme=jolly&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unknownhero88&theme=jolly&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=unknownhero88&theme=radical&no-frame=true)
-
-<!-- Proudly created with GPRM -->
