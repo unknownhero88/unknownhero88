@@ -34,8 +34,16 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 🌈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavburnwal&bg_color=0d1117&color=14b8a6&line=0ea5e9&point=f43f5e&area=true&hide_border=true" alt="Rishav's contribution graph"/>
+</p>
+
+
+---
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=unknownhero88&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=unknownhero88&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unknownhero88&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
